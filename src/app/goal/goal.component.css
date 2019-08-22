@@ -1,9 +1,28 @@
 h1 {
+  padding-left: 10%;
+  padding-top: 5%;
   color: brown;
 }
+
+button {
+  padding-left: 6%;
+  padding-right: 6%;
+  margin-left: 20%;
+} 
+
 h4 {
+  color: antiquewhite;
+  padding-left: 10%;
   padding-top: 5%;
 }
-.container {
+.container-fluid {
    background-image: url(https://i.pinimg.com/originals/b6/38/38/b63838fde6a7fc5b1df6d2834ebf60eb.jpg);
- }
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+#c {
+  padding-top: 5%;
+  padding-left: 10%;
+  color: rgb(238, 212, 190);
+}

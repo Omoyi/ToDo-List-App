@@ -1,3 +1,8 @@
 h2 {
   color: rgb(238, 159, 55);
 }
+label {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: aquamarine;
+  font-size: 18px;
+}
