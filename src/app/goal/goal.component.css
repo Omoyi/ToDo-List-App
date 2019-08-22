@@ -1,7 +1,8 @@
 h1 {
   padding-left: 10%;
   padding-top: 5%;
-  color: brown;
+  color: rgb(236, 186, 92);
+  text-shadow: 1px 3px  rgb(221, 55, 25);
 }
 
 button {
